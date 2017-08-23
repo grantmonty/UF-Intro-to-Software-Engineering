@@ -21,6 +21,6 @@ var requestHandler = function(request, response) {
 fs.readFile('listings.json', 'utf8', function(err, data) {
   /*
     This callback function should save the data in the listingData variable, 
-    then start the server. 
+    then it'll start the server. 
    */
 });
